@@ -4,6 +4,7 @@
 
 This project leverages a **multi-agent architecture powered by generative AI (Gen AI)** to automate the creation of personalized marketing campaigns. By connecting specialized AI agents, the system streamlines the entire marketing process—from data collection and analysis to content creation—ensuring optimized engagement and conversion rates. Utilizing customer data from a SQLite database, the system generates highly targeted, dynamic email campaigns tailored to individual preferences.
 
+## Video walkthrough: https://drive.google.com/file/d/1JfM00RJxKCPuntYc68-uLhBgRp6Kn9dg/view?usp=sharing
 ---
 
 ## Key Features
